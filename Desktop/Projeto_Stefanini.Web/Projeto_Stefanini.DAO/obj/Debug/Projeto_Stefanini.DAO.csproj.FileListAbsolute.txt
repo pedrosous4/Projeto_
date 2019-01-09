@@ -1,0 +1,16 @@
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.DAO\bin\Debug\Projeto_Stefanini.DAO.dll
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.DAO\bin\Debug\Projeto_Stefanini.DAO.pdb
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.DAO\bin\Debug\Projeto_Stefanini.MDL.dll
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.DAO\bin\Debug\Projeto_Stefanini.MDL.pdb
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.DAO\obj\Debug\Projeto_Stefanini.DAO.csprojResolveAssemblyReference.cache
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.DAO\obj\Debug\Projeto_Stefanini.DAO.dll
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.DAO\obj\Debug\Projeto_Stefanini.DAO.pdb
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.DAO\bin\Debug\Projeto_Stefanini.DAO.dll
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.DAO\bin\Debug\Projeto_Stefanini.DAO.pdb
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.DAO\bin\Debug\Projeto_Stefanini.MDL.dll
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.DAO\bin\Debug\Projeto_Stefanini.MDL.pdb
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.DAO\obj\Debug\Projeto_Stefanini.DAO.csprojAssemblyReference.cache
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.DAO\obj\Debug\Projeto_Stefanini.DAO.csproj.CoreCompileInputs.cache
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.DAO\obj\Debug\Projeto_Stefanini.DAO.csproj.CopyComplete
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.DAO\obj\Debug\Projeto_Stefanini.DAO.dll
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.DAO\obj\Debug\Projeto_Stefanini.DAO.pdb

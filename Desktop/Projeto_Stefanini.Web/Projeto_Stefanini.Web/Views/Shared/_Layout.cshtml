@@ -1,0 +1,86 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Portal</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    @Scripts.Render("~/Scripts/jquery-3.0.0.min.js")
+
+    <!--<script type="text/javascript">
+        window.jQuery || document.write("<script src='@Scripts.Url("~/Scripts/jquery-3.0.0.min.js")'>" + "<" + "/script>");
+    </script>-->
+
+    <script type="text/javascript">
+        window.jQuery || document.write("<script src='@Scripts.Url("~/Scripts/jquery-3.0.0.min.js")'>" + "<" + "/script>");
+    </script>
+
+    <!--<![endif]-->
+    <!--[if IE]>
+    <script type="text/javascript">
+     window.jQuery || document.write("<script src='@Scripts.Url("~/Scripts/jquery-3.0.0.min.js")'>"+"<"+"/script>");
+    </script>
+    <![endif]-->
+    <!--basic styles-->
+    <!--[if IE 7]>
+      <link rel="stylesheet" href="@Styles.Render("~/Content/css")" />
+    <![endif]-->
+
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg bg-dark navbar-dark fixed-top">
+        <div class="container">
+            <a class="navbar-brand" style="color:#fff" href="@Url.Action("Index","")">
+                Projeto Stefanini
+                @*@Html.ActionLink("Escalation", "Index", "Home", null, new { @class = "navbar-brand" })*@
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                    <ul class="navbar-nav mr-auto">
+                        @*<li class="nav-item">@Html.ActionLink("Home", "Index", "Home", null, new { @class = "nav-link" })</li>*@
+                        @*<li class="nav-item">@Html.ActionLink("About", "About", "Home", null, new { @class = "nav-link" })</li>
+                            <li class="nav-item">@Html.ActionLink("Contact", "Contact", "Home", null, new { @class = "nav-link" })</li>*@
+                        <li class="nav-item">@Html.ActionLink("Início", "Index", "Home", null, new { @class = "nav-link" })</li>
+                        <li class="nav-item">@Html.ActionLink("Contato", "Contact", "Home", null, new { @class = "nav-link" })</li>
+                    </ul>
+            </div>
+        </div>
+    </nav>
+    @*<div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Projeto Stefanini", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Início", "Index", "Home")</li>
+                    @*<li>@Html.ActionLink("Sobre", "About", "Home")</li>
+                    <li>@Html.ActionLink("Contato", "Contact", "Home")</li>
+                </ul>
+            </div>
+        </div>
+    </div>*@
+    <div class="container body-content " style="margin-top: 80px;">
+        @RenderSection("PageHead", required: false)
+        @RenderBody()
+        <hr />
+    </div>
+    <div class="container body-content">
+        <footer>
+            <p>&copy; @DateTime.Now.Year - Projeto Stefanini ASP.NET</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

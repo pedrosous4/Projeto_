@@ -1,0 +1,11 @@
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.MDL\bin\Debug\Projeto_Stefanini.MDL.dll
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.MDL\bin\Debug\Projeto_Stefanini.MDL.pdb
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.MDL\obj\Debug\Projeto_Stefanini.MDL.dll
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.MDL\obj\Debug\Projeto_Stefanini.MDL.pdb
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.MDL\obj\Debug\Projeto_Stefanini.MDL.csprojResolveAssemblyReference.cache
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.MDL\bin\Debug\Projeto_Stefanini.MDL.dll
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.MDL\bin\Debug\Projeto_Stefanini.MDL.pdb
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.MDL\obj\Debug\Projeto_Stefanini.MDL.csprojAssemblyReference.cache
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.MDL\obj\Debug\Projeto_Stefanini.MDL.csproj.CoreCompileInputs.cache
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.MDL\obj\Debug\Projeto_Stefanini.MDL.dll
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.MDL\obj\Debug\Projeto_Stefanini.MDL.pdb

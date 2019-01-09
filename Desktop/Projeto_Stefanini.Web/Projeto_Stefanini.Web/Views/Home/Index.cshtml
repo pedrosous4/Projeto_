@@ -1,0 +1,55 @@
+﻿@model  Projeto_Stefanini.MDL.InserirMDL
+@{
+    ViewBag.Title = "Inicio";
+}
+
+@section scripts{
+    @*<script type="text/javascript">
+            $(document).ready(function () {
+                $('#Arquivos').MultiFile({
+                    accept: 'txt',
+                    max: 3,
+                    STRING: {
+                        remove: 'Remover',
+                        denied: 'Tipo do arquivo inválido $ext!',
+                        duplicate: 'Esse arquivo já foi selecionado:\n$file!'
+                    }
+                });
+            });
+        </script>*@
+}
+
+<div class="jumbotron">
+    <h1>Bem Vindo!</h1>
+    <p class="lead">Sistema de Inserção de arquivos em formato ".TXT".</p>
+</div>
+
+@using (Html.BeginForm("Inserir", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <form class="form-inline">
+        <div class="form-group">
+            <div class="row">
+                <label for="choselabel1">Escolha um arquivo .TXT para fazer upload no Banco:</label>
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.TextBoxFor(m => m.Anexo, new { type = "file", id = "Arquivos", name = "Arquivos", multiple = "true" })
+            <input type="submit" name="submit" value="Enviar Arquivo" class="btn btn-primary" />
+        </div>
+    </form>
+}
+
+@using (Html.BeginForm("Listar", "Home", FormMethod.Post))
+{
+    <form class="form-inline">
+        <div class="form-group">
+            <input type="submit" name="submit" value="Listar Dados" class="btn btn-info" />
+        </div>
+    </form>
+}
+
+    <div class="row-fluid">
+        <div id="divResultado">
+            @Html.Partial("_Grid", Model)
+        </div>
+    </div>

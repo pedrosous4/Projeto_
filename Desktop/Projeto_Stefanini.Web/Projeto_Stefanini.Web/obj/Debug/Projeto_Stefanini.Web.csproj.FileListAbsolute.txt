@@ -1,0 +1,124 @@
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Projeto_Stefanini.Web.dll.config
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Projeto_Stefanini.Web.dll
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Projeto_Stefanini.Web.pdb
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Antlr3.Runtime.dll
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\EntityFramework.dll
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Microsoft.Owin.dll
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Newtonsoft.Json.dll
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Owin.dll
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Projeto_Stefanini.BLL.dll
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Projeto_Stefanini.MDL.dll
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\System.Web.Helpers.dll
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\System.Web.Mvc.dll
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\System.Web.Optimization.dll
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\System.Web.Razor.dll
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\System.Web.WebPages.dll
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\WebGrease.dll
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Projeto_Stefanini.BLL.pdb
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Projeto_Stefanini.MDL.pdb
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Antlr3.Runtime.pdb
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\EntityFramework.xml
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Microsoft.Owin.xml
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Newtonsoft.Json.xml
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\System.Web.Helpers.xml
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\System.Web.Mvc.xml
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\System.Web.Optimization.xml
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\System.Web.Razor.xml
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\System.Web.WebPages.xml
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\obj\Debug\Projeto_Stefanini.Web.csprojResolveAssemblyReference.cache
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\obj\Debug\Projeto_Stefanini.Web.dll
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\obj\Debug\Projeto_Stefanini.Web.pdb
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Projeto_Stefanini.DAO.dll
+C:\Users\a0069415\Desktop\Projeto Stefanini\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Projeto_Stefanini.DAO.pdb
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Projeto_Stefanini.Web.dll.config
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Projeto_Stefanini.Web.dll
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Projeto_Stefanini.Web.pdb
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Antlr3.Runtime.dll
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\EntityFramework.dll
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Microsoft.Owin.dll
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Newtonsoft.Json.dll
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Owin.dll
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Projeto_Stefanini.BLL.dll
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Projeto_Stefanini.MDL.dll
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\System.Web.Helpers.dll
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\System.Web.Mvc.dll
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\System.Web.Optimization.dll
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\System.Web.Razor.dll
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\System.Web.WebPages.dll
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\WebGrease.dll
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Projeto_Stefanini.DAO.dll
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Projeto_Stefanini.BLL.pdb
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Projeto_Stefanini.MDL.pdb
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\EntityFramework.xml
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Microsoft.Owin.xml
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Newtonsoft.Json.xml
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\System.Web.Helpers.xml
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\System.Web.Mvc.xml
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\System.Web.Optimization.xml
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\System.Web.Razor.xml
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\System.Web.WebPages.xml
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\bin\Projeto_Stefanini.DAO.pdb
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\obj\Debug\Projeto_Stefanini.Web.csprojAssemblyReference.cache
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\obj\Debug\Projeto_Stefanini.Web.csproj.CoreCompileInputs.cache
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\obj\Debug\Projeto_Stefanini.Web.csproj.CopyComplete
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\obj\Debug\Projeto_Stefanini.Web.dll
+C:\Users\Odin\Desktop\Projeto_Stefanini.Web\Projeto_Stefanini.Web\obj\Debug\Projeto_Stefanini.Web.pdb
